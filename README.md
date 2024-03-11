@@ -1,4 +1,4 @@
-# Portfolio Praktikum Data analyst
+# Portfolio "Data analyst"
 
 ## Описание:
 ### В репозитории представлены основные проекты курса "Аналитик данных" (Яндекс Практикум)
